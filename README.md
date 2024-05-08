@@ -12,4 +12,4 @@
 
 🔗 **LinkedIn:** [Sina Sabermahani](https://www.linkedin.com/in/sina-sabermahani/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sinamahani=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Sina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinamahani)](https://github.com/anuraghazra/github-readme-stats)
