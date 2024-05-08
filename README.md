@@ -11,3 +11,5 @@
 🌟 Whether you're into earth's mysteries, AI magic, or just want to chat about the coolest new tech - hit me up! I'm always down for a good conversation and dreaming up the next big thing. Let's make something awesome together!
 
 🔗 **LinkedIn:** [Sina Sabermahani](https://www.linkedin.com/in/sina-sabermahani/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sinamahani=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
