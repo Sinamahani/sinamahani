@@ -10,6 +10,6 @@
 
 🌟 Whether you're into earth's mysteries, AI magic, or just want to chat about the coolest new tech - hit me up! I'm always down for a good conversation and dreaming up the next big thing. Let's make something awesome together!
 
-🔗 **LinkedIn:** [Sina Saber]([https://www.linkedin.com/in/sinasaber/])
+🔗 **LinkedIn:** [Sina Saber](https://www.linkedin.com/in/sinasaber/)
 
 [![Sina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinamahani)](https://github.com/anuraghazra/github-readme-stats)
